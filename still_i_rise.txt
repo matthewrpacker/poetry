@@ -16,7 +16,14 @@
 
 ## Verse 8
 
+<<<<<<< HEAD
 Just like moons and like suns,
 With the certainty of tides,
 Just like hopes springing high,
 Still I'll rise.
+=======
+You may write me down in history
+With your bitter, twisted lies,
+You may trod me in the very dirt
+But still, like dust, I'll rise.
+>>>>>>> 399afda2aa864f3a3ff0ada5231ac302e57e8cab
